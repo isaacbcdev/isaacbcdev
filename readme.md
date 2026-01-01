@@ -1,5 +1,3 @@
-<img src="banner-isaacbcdev.png" alt="banner" style="width:100%;" />
-
 <h1>Hi 👋, I'm Isaac, a Fullstack Developer from Colombia</h1>
 
 <p>
